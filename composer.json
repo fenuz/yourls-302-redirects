@@ -1,0 +1,15 @@
+{
+    "name": "kennisnet/yourls-302-redirects",
+    "type": "yourls-plugin",
+    "description": "Use 302 redirects to prevent browser caching keyword redirects. ",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Frank Matheron",
+            "email": "frankmatheron@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
